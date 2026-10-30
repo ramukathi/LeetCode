@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/ramukathi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ramukathi/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ramukathi/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/ramukathi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ramukathi/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ramukathi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ramukathi/LeetCode/tree/master/0268-missing-number) |
@@ -60,4 +61,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ramukathi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/ramukathi/LeetCode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
