@@ -29,12 +29,14 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ramukathi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ramukathi/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ramukathi/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramukathi/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ramukathi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/ramukathi/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ramukathi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -69,5 +71,6 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ramukathi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ramukathi/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
