@@ -13,6 +13,7 @@
 | [0152-maximum-product-subarray](https://github.com/ramukathi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramukathi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ramukathi/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/ramukathi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ramukathi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ramukathi/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ramukathi/LeetCode/tree/master/0283-move-zeroes) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ramukathi/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ramukathi/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/ramukathi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramukathi/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ramukathi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ramukathi/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/ramukathi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramukathi/LeetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
